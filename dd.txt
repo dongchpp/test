@@ -1,3 +1,8 @@
 $i=locali1;
 $j=localj1;
+
 $k=localk2;
+
+$ij=?
+
+
